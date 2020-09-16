@@ -1,0 +1,9 @@
+c:\microservices\LabelLoader\GeekBurger.LabelLoader.Contract\bin\Debug\netcoreapp3.1\GeekBurger.LabelLoader.Contract.deps.json
+c:\microservices\LabelLoader\GeekBurger.LabelLoader.Contract\bin\Debug\netcoreapp3.1\GeekBurger.LabelLoader.Contract.dll
+c:\microservices\LabelLoader\GeekBurger.LabelLoader.Contract\bin\Debug\netcoreapp3.1\GeekBurger.LabelLoader.Contract.pdb
+c:\microservices\LabelLoader\GeekBurger.LabelLoader.Contract\obj\Debug\netcoreapp3.1\GeekBurger.LabelLoader.Contract.csprojAssemblyReference.cache
+c:\microservices\LabelLoader\GeekBurger.LabelLoader.Contract\obj\Debug\netcoreapp3.1\GeekBurger.LabelLoader.Contract.AssemblyInfoInputs.cache
+c:\microservices\LabelLoader\GeekBurger.LabelLoader.Contract\obj\Debug\netcoreapp3.1\GeekBurger.LabelLoader.Contract.AssemblyInfo.cs
+c:\microservices\LabelLoader\GeekBurger.LabelLoader.Contract\obj\Debug\netcoreapp3.1\GeekBurger.LabelLoader.Contract.csproj.CoreCompileInputs.cache
+c:\microservices\LabelLoader\GeekBurger.LabelLoader.Contract\obj\Debug\netcoreapp3.1\GeekBurger.LabelLoader.Contract.dll
+c:\microservices\LabelLoader\GeekBurger.LabelLoader.Contract\obj\Debug\netcoreapp3.1\GeekBurger.LabelLoader.Contract.pdb
